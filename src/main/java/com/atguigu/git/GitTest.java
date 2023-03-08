@@ -17,5 +17,6 @@ public class GitTest {
         System.out.println("pull test2 ");
         System.out.println("xxx test2 ");
         System.out.println("重新测试idea2022.1 push到GitHub  ");
+         System.out.println("重新测试idea2022.1 pull-->GitHub  ");
     }
 }
